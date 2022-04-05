@@ -1,4 +1,4 @@
-# Ultitrio
+# Ultitrio (3v3 TF2 Competitive Format)
 ![UltiTrio_Logo_WatermarkedSmall](https://user-images.githubusercontent.com/103016536/161866095-b967386a-34c7-4c41-be11-0b392b179458.png)
 
 ## What is Ultitrio?
