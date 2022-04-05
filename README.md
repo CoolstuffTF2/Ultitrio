@@ -1,7 +1,7 @@
 # Ultitrio
 TF2 3v3 Comp Format
 
-Thank you for downloading and planning to use Coolstuff's Ultitrio competitive format!
+Thank you for intrest in the use Coolstuff's Ultitrio competitive format!
 For installation instructions, please follow the guide below, otherwise, have fun!
 
 Installation instructions:
