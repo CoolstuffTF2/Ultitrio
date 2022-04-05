@@ -14,11 +14,11 @@ For installation instructions, please follow the guide below, otherwise, have fu
 
 Installation instructions:
 
-Step 1: Navigate to the following path in your TF2 server using your browser or FTP/SFTP client of choice, "\tf\cfg"
+Step 1: Navigate to the following path in your TF2 server using your browser or FTP/SFTP client of choice, "\tf\cfg".
 ---
-Step 2: Extract this .zip files' contents to your Desktop or another readily available workspace on your computer.
+Step 2: Extract all of the repositories' contents to your Desktop or another readily available workspace on your computer.
 ---
-Step 3: Copy and paste all the config and whitelist files to "\tf\cfg"
+Step 3: Copy and paste all the config and whitelist files to "\tf\cfg".
 ---
 Step 4: Reboot your TF2 server and then you're done!
 ---
