@@ -1,5 +1,5 @@
 # Ultitrio
-TF2 3v3 Comp Format
+TF2 3v3 Comp Format Made By Coolstuff
 
 What is Ultitrio?
 ---
