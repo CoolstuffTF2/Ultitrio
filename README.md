@@ -10,7 +10,7 @@ While Ultitrio is still in the testing phases for a whitelist and as a competiti
 
 
 Thank you for your interest in the use of Coolstuff's Ultitrio competitive format!
-##For installation instructions, please follow the guide below, otherwise, have fun!
+For installation instructions, please follow the guide below, otherwise, have fun!
 
 ## Installation instructions:
 
