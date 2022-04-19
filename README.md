@@ -37,3 +37,7 @@ Step 3: Profit? No, fraggage and destruction. Go have fun!
 Step 4: Once you are done, type "exec cs_off" and that reverts your server to normal. If you have issues with the whitelist, see below.
 
 Note: If you're having whitelist issues, make sure you DO NOT use "map" to change maps but use "changelevel" instead, you will need to do "changelevel" every time you exec a new whitelist because source is funny lmao.
+
+
+## All credit goes to the original creators.
+[Lil' Boneless Pizza](https://steamcommunity.com/id/lilbonelesspizza/) for the graphic design of the logo, [Whitelist.tf](https://whitelist.tf/) for the whitelist, [UGC](https://www.ugcleague.com/files_tf22.cfm) for using their Ultiduo config, all original map creators, and to [FountainMann](https://steamcommunity.com/profiles/76561198834350355) for encorangement during the testing stages :D
