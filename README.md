@@ -24,7 +24,7 @@ Step 4: Reboot your TF2 server and then you're done!
 
 ### A bit on the configs for beginners:
 
-It's important to remember to not exec the cs_UT_base config at all. This is used to set up all other required commands for the Ultitrio format, nothing more nothing less. Only exec the "cs_ut_ultitrio" or "cs_ut_ultitrio_bo5" varrient. When finished, exec the cs_off config to remove all of the config's changes.
+It's important to remember to not exec the cs_UT_base config at all. This is used to set up all other required commands for the Ultitrio format, nothing more nothing less. Only exec the "cs_ut_ultitrio" or "cs_ut_ultitrio_bo5" varient. When finished, exec the cs_off config to remove all of the config's changes.
 
 ### To exec configs:
 
