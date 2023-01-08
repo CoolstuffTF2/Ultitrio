@@ -70,7 +70,6 @@
 
 	//------------ Blocked weapons/reskins (Total: 141) -------------\\
 	//______________________ Multiple classes _______________________\\
-	"The B.A.S.E. Jumper"						"0"
 	"The Reserve Shooter"						"0"
 	//____________________________ Scout ____________________________\\
 	"Bonk! Atomic Punch"						"0"
