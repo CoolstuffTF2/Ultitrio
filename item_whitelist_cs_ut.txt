@@ -268,7 +268,6 @@
 	"Conga Taunt"							"0"
 	"Flippin' Awesome Taunt"					"0"
 	"High Five Taunt"						"0"
-	"Laugh Taunt"							"0"
 	"RPS Taunt"							"0"
 	"Skullcracker Taunt"						"0"
 	"Square Dance Taunt"						"0"
