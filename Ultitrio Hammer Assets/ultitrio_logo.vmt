@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"ultitrio_aesthetic/ultitrio_logo"
+	  $decal 1
+	  $translucent 1
+	  $alphatest 1
+}
