@@ -7,6 +7,9 @@ Ultitrio (previously called Ultiduo + 1) is a new 3v3 competitive format created
 
 While Ultitrio is still in the testing phases for a whitelist and as a competitive format in general, in limited testing, its more dynamic small team roster allows it to serve as a good bridge between the formats Ultiduos and 4s as it's very heavily DM skill-based, much like Ultiduos.
 
+## Ultitrio Maps / Map Downloads
+The Ultitrio maps have moved from the GitHub to a Google Drive folder that can be found here: https://drive.google.com/drive/folders/18aRkMDzFIwUghQCxJvxXwLD7lCt8vGs6?usp=sharing
+
 # Join the Ultitrio Official Discord for updates, news, and PUGs! https://discord.gg/CtGdA3fbRq
 
 ## Installation instructions:
