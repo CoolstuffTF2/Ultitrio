@@ -94,7 +94,7 @@
 	"The Concheror"							"0"
 	"The Cow Mangler 5000"						"0"
 	"The Direct Hit"						"0"
-	"The Market Gardener"						"0"
+	"The Market Gardener"						"1"
 	//____________________________ Pyro _____________________________\\
 	"Festive Axtinguisher"						"0"
 	"Festive Backburner 2014"					"0"
@@ -200,7 +200,7 @@
 	"The Razorback"							"0"
 	"The Self-Aware Beauty Mark"					"0"
 	"The Shahanshah"						"0"
-	"The Sydney Sleeper"						"0"
+	"The Sydney Sleeper"						"1"
 	"The Tribalman's Shiv"						"0"
 	//_____________________________ Spy _____________________________\\
 	"Conniver's Kunai"						"0"
